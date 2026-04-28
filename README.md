@@ -20,7 +20,6 @@ Data structure:
 ## Files
 
 - `verse19-ct-autoencoder.ipynb`: Main notebook containing the project implementation
-- `Deep_assignment.ipynb`: Assignment notebook
 
 ## Requirements
 
