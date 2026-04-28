@@ -7,7 +7,7 @@ A deep learning project for medical image analysis using autoencoders on CT (Com
 
 ## Project Overview
 
-This assignment focuses on developing and training multiple autoencoder architectures to process, compress, and analyze vertebral CT scan images. The models learn to reconstruct high-resolution medical images from latent representations, with applications in medical image compression, anomaly detection, and feature extraction.
+This Project focuses on developing and training multiple autoencoder architectures to process, compress, and analyze vertebral CT scan images. The models learn to reconstruct high-resolution medical images from latent representations, with applications in medical image compression, anomaly detection, and feature extraction.
 
 ## Models Implemented
 
@@ -59,7 +59,6 @@ Data/
 ## Files
 
 - `verse19-ct-autoencoder.ipynb`: Main notebook with all model implementations, training, and evaluation
-- `Deep_assignment.ipynb`: Assignment specification and requirements
 - `requirements.txt`: Python dependencies
 
 ## Requirements
