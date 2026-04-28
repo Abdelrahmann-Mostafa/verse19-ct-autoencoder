@@ -1,4 +1,4 @@
-git# VERSE19 CT Autoencoder - Deep Learning Assignment
+git# VERSE19 CT Autoencoder - Deep Learning Project
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.11+-FF6F00?logo=tensorflow)
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
